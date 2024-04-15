@@ -1,2 +1,2 @@
 # matrix-library
-realisation of matrix library c++
+Реализация библиотеки матриц на си++
